@@ -1,5 +1,12 @@
 ![PromiseKit](http://promisekit.org/public/img/logo-tight.png)
 
+# Experimental 5.x Goals:  
+
+* Better error messages
+* Less ambiguity in use
+* Readable backtraces
+* UnfailablePromises
+
 ![badge-pod] ![badge-languages] ![badge-pms] ![badge-platforms] ![badge-mit]
 
 Modern development is highly asynchronous: isn’t it about time we had tools that
